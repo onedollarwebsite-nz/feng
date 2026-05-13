@@ -47,7 +47,7 @@ hasCJKLanguage = true
     enable = true
     custom = "枫 · 以文字记录生活"
     hugo = false
-    since = 2013
+    since = 2012
 
 [menu]
   [[menu.main]]
