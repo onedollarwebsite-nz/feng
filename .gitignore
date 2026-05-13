@@ -1,0 +1,10 @@
+# 私人写作素材（不发布）
+style-guide.md
+samples/
+drafts/
+.kiro/
+
+# Hugo 构建产物
+public/
+resources/_gen/
+.hugo_build.lock

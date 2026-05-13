@@ -1,0 +1,78 @@
+baseURL = "https://onedollarwebsite-nz.github.io/feng/"
+title = "枫"
+theme = "LoveIt"
+defaultContentLanguage = "zh-cn"
+hasCJKLanguage = true
+
+[params]
+  description = "雪花已铺满了地，深怕窗外枫叶已结成冰"
+  defaultTheme = "auto"
+  dateFormat = "2006-01-02"
+
+  [params.author]
+    name = "Rong"
+
+  [params.header]
+    [params.header.title]
+      name = "枫"
+      pre = "🍁"
+
+  [params.home]
+    [params.home.profile]
+      enable = true
+      subtitle = "雪花已铺满了地，深怕窗外枫叶已结成冰"
+      typeit = true
+      avatarURL = "/images/avatar.jpg"
+      social = true
+    [params.home.posts]
+      enable = true
+      paginate = 10
+
+  [params.social]
+    GitHub = "xingrong1204"
+    Email = "rong.xing.nz@gmail.com"
+
+  [params.page]
+    [params.page.toc]
+      enable = false
+    [params.page.share]
+      enable = true
+      Twitter = true
+    [params.page.readingTime]
+      enable = true
+
+  [params.typeit]
+    speed = 80
+    cursorSpeed = 800
+    cursorChar = "｜"
+
+  [params.footer]
+    enable = true
+    custom = "枫 · 以文字记录生活"
+    hugo = false
+    since = 2013
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
