@@ -23,21 +23,18 @@ hasCJKLanguage = true
       subtitle = "雪花已铺满了地，深怕窗外枫叶已结成冰"
       typeit = true
       avatarURL = "/feng/images/avatar.jpg"
-      social = true
+      social = false
     [params.home.posts]
       enable = true
       paginate = 10
 
   [params.social]
-    GitHub = "xingrong1204"
-    Email = "rong.xing.nz@gmail.com"
 
   [params.page]
     [params.page.toc]
       enable = false
     [params.page.share]
-      enable = true
-      Twitter = true
+      enable = false
     [params.page.readingTime]
       enable = true
 
