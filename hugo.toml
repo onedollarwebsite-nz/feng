@@ -22,7 +22,7 @@ hasCJKLanguage = true
       enable = true
       subtitle = "雪花已铺满了地，深怕窗外枫叶已结成冰"
       typeit = true
-      avatarURL = "/images/avatar.jpg"
+      avatarURL = "/feng/images/avatar.jpg"
       social = true
     [params.home.posts]
       enable = true
