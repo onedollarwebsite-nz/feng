@@ -1,4 +1,4 @@
-baseURL = "https://onedollarwebsite-nz.github.io/feng/"
+baseURL = "https://feng.nz/"
 title = "枫"
 theme = "LoveIt"
 defaultContentLanguage = "zh-cn"
@@ -22,7 +22,7 @@ hasCJKLanguage = true
       enable = true
       subtitle = "雪花已铺满了地，深怕窗外枫叶已结成冰"
       typeit = true
-      avatarURL = "/feng/images/avatar.jpg"
+      avatarURL = "/images/avatar.jpg"
       social = false
     [params.home.posts]
       enable = true
