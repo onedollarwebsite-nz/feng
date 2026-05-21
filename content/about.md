@@ -2,7 +2,7 @@
 title: "关于"
 date: 2012-01-01
 draft: false
-featuredImage: "/feng/images/avatar.jpg"
+featuredImage: "/images/avatar.jpg"
 ---
 
 > 跟风有关的东西，总让我安静下来。

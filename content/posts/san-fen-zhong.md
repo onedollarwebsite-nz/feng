@@ -3,7 +3,7 @@ title: "中场"
 date: 2026-05-12
 draft: false
 tags: ["随笔", "独处", "情绪"]
-featuredImage: "/feng/images/san-fen-zhong.jpg"
+featuredImage: "/images/san-fen-zhong.jpg"
 ---
 
 坐在沙发上，打开手机，划了两下，又锁屏。打开电脑，盯着屏幕，又关上。拿起一本书，翻了三页，又放下。整个人像一台空转的机器，齿轮在动，却什么也没有咬合上。
